@@ -2,6 +2,7 @@
 ChatBub Addon
 -----------------
 ChatBub is a simple addon for WoW 1.12.1 Vanilla that makes chat bubbles transparent. It's designed to be lightweight and easy to use.
+![chatbub screenshot](https://user-images.githubusercontent.com/59045727/225699493-4f3166bb-6580-478d-978a-37d00a8a1665.png)
 
 Installation
 -----------------
