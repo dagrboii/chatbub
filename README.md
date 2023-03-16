@@ -1,6 +1,3 @@
-# chatbub
-Transparent chat bubbles
-
 
 ChatBub Addon
 -----------------
